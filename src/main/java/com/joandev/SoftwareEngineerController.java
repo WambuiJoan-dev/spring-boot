@@ -21,7 +21,7 @@ public class SoftwareEngineerController {
                 new SoftwareEngineer(
                         2,
                         "Joan",
-                        "java, spring, springboot"
+                        "java, spring, spring boot"
                 )
 
         );
