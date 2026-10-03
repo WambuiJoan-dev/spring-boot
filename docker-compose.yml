@@ -16,7 +16,7 @@ services:
 
 networks:
   db:
-   driver:bridge
+   driver: bridge
 
 volumes:
   db:
